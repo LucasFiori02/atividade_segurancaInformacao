@@ -13,7 +13,10 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 | Item | Valor |
 |---|---|
-| Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `10d3590f4220d7168b1b2570bd2b8e7853c27337` |
-| Execucao | [36496897748](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36496897748) |
-| Data | 28/09/2026 23:15 UTC |
+| Status | 🟢 Sucesso |
+| Imagem | `ghcr.io/lucasfiori02/atividade_segurancainformacao` |
+| Tags | `latest`, `499074de70c65976493c6d6a33bf60bdf93c9649` |
+| Digest | `sha256:c19c966d24cbfc32fcb76634f521340c3878e2ce04909d7b4aa470deb8b16af0` |
+| Commit | `499074de70c65976493c6d6a33bf60bdf93c9649` |
+| Execucao | [36497136248](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36497136248) |
+| Data | 28/09/2026 23:18 UTC |

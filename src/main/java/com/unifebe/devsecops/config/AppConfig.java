@@ -1,20 +1,30 @@
 package com.unifebe.devsecops.config;
 
 /**
- * ATENCAO - CODIGO PROPOSITALMENTE INSEGURO PARA FINS DIDATICOS.
- * Nunca faca isto em um projeto real: credenciais NUNCA devem ser
- * gravadas diretamente no codigo-fonte (Secret Sprawl).
+ * Configuracao sensivel fornecida pelo ambiente de execucao.
+ *
+ * Em producao, essas variaveis devem ser populadas por um cofre de segredos
+ * como Vault ou AWS Secrets Manager. O GITHUB_TOKEN pertence a CI/build e nao
+ * deve ser reutilizado como segredo de runtime da aplicacao.
  */
-public class AppConfig {
+public final class AppConfig {
 
-    // Exemplo de credencial de banco de dados exposta no repositorio
-    public static final String DB_PASSWORD = "SuperSecretP@ssw0rd123";
+    private AppConfig() {
+    }
 
-    // Exemplo classico de chave AWS (formato oficial de exemplo da AWS)
-    public static final String AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE";
-    public static final String AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+    public static String dbPassword() {
+        return System.getenv("DB_PASSWORD");
+    }
 
-    // Exemplo de chave de API de um provedor de pagamentos
-    public static final String PAYMENT_GATEWAY_API_KEY = "sk_live_51H8xJ2EXAMPLEKEYDONOTUSEINPRODUCTION0001";
+    public static String awsAccessKeyId() {
+        return System.getenv("AWS_ACCESS_KEY_ID");
+    }
 
+    public static String awsSecretAccessKey() {
+        return System.getenv("AWS_SECRET_ACCESS_KEY");
+    }
+
+    public static String paymentGatewayApiKey() {
+        return System.getenv("PAYMENT_GATEWAY_API_KEY");
+    }
 }

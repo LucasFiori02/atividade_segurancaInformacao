@@ -11,12 +11,9 @@ public class PaymentService {
 
     /**
      * Aplica um desconto percentual sobre um preco.
-     *
-     * FALHA PROPOSITAL: a formula divide por 1000 em vez de 100,
-     * fazendo com que o desconto aplicado seja 10x menor que o esperado.
      */
     public double applyDiscount(double price, int discountPercent) {
         logger.info("Calculando desconto de {}% sobre {}", discountPercent, price);
-        return price - (price * discountPercent / 1000);
+        return price - (price * discountPercent / 100);
     }
 }

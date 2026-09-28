@@ -15,8 +15,8 @@ Este arquivo e gerado automaticamente pela pipeline.
 |---|---|
 | Status | 🟢 Sucesso |
 | Imagem | `ghcr.io/lucasfiori02/atividade_segurancainformacao` |
-| Tags | `latest`, `499074de70c65976493c6d6a33bf60bdf93c9649` |
-| Digest | `sha256:c19c966d24cbfc32fcb76634f521340c3878e2ce04909d7b4aa470deb8b16af0` |
-| Commit | `499074de70c65976493c6d6a33bf60bdf93c9649` |
-| Execucao | [36497136248](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36497136248) |
-| Data | 28/09/2026 23:18 UTC |
+| Tags | `latest`, `7d2bd09e19c73c074889f31574bc2f4f729f79d3` |
+| Digest | `sha256:2dc2323732c248d55bc4b4bc3b677422bbd27b8efd0aa43abba9e6f3f9b48408` |
+| Commit | `7d2bd09e19c73c074889f31574bc2f4f729f79d3` |
+| Execucao | [36500625165](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36500625165) |
+| Data | 28/09/2026 23:59 UTC |

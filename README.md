@@ -14,6 +14,6 @@ Este arquivo e gerado automaticamente pela pipeline.
 | Item | Valor |
 |---|---|
 | Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `1628bfbcf9cc53fa474fb657a935dede32cf620d` |
-| Execucao | [36496713593](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36496713593) |
-| Data | 28/09/2026 23:13 UTC |
+| Commit | `10d3590f4220d7168b1b2570bd2b8e7853c27337` |
+| Execucao | [36496897748](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36496897748) |
+| Data | 28/09/2026 23:15 UTC |

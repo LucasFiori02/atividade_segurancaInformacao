@@ -5,14 +5,15 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 ## Alunos
 
-- Aluno1
-- Aluno2
+- Lucas Fiori
+- Gustavo da Cunha
+- Wellington Clemes
 
 ## Resultado do Docker Build
 
 | Item | Valor |
 |---|---|
 | Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `21dc3b3dce22770de1abfb33fe6dd527f212b72a` |
-| Execucao | [35548451103](https://github.com/sbaron81/unifebe-si08-devsecops/actions/runs/35548451103) |
-| Data | 21/09/2026 00:40 UTC |
+| Commit | `7644894107c53369a9be314de236b7a15ea5c893` |
+| Execucao | [36496070172](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36496070172) |
+| Data | 28/09/2026 23:05 UTC |

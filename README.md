@@ -14,9 +14,9 @@ Este arquivo e gerado automaticamente pela pipeline.
 | Item | Valor |
 |---|---|
 | Status | 🟢 Sucesso |
-| Imagem | `ghcr.io/lucasfiori02/atividade_segurancainformacao` |
-| Tags | `latest`, `0c2d16171bcafda1dc38712cfb53c91f615e4fae` |
-| Digest | `sha256:b3c272c88524b9349493379ef3d969960533e50e0f643fb15aab50db59eb1de2` |
-| Commit | `0c2d16171bcafda1dc38712cfb53c91f615e4fae` |
-| Execucao | [36501089770](https://github.com/LucasFiori02/atividade_segurancaInformacao/actions/runs/36501089770) |
-| Data | 29/09/2026 00:04 UTC |
+| Imagem | `ghcr.io/lucasfiori02/banco-facil-api` |
+| Tags | `latest`, `774489fbb22f51ca814dabbb4a622f69db77ccf3` |
+| Digest | `sha256:baf6374a19bd66359b268762794f2a0f9fe2eb678fb1fb97b4a4805dfa3e5d44` |
+| Commit | `774489fbb22f51ca814dabbb4a622f69db77ccf3` |
+| Execucao | [36503494373](https://github.com/LucasFiori02/banco-facil-api/actions/runs/36503494373) |
+| Data | 29/09/2026 00:33 UTC |

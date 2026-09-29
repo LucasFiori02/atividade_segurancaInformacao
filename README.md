@@ -15,8 +15,8 @@ Este arquivo e gerado automaticamente pela pipeline.
 |---|---|
 | Status | 🟢 Sucesso |
 | Imagem | `ghcr.io/lucasfiori02/banco-facil-api` |
-| Tags | `latest`, `774489fbb22f51ca814dabbb4a622f69db77ccf3` |
-| Digest | `sha256:baf6374a19bd66359b268762794f2a0f9fe2eb678fb1fb97b4a4805dfa3e5d44` |
-| Commit | `774489fbb22f51ca814dabbb4a622f69db77ccf3` |
-| Execucao | [36503494373](https://github.com/LucasFiori02/banco-facil-api/actions/runs/36503494373) |
-| Data | 29/09/2026 00:33 UTC |
+| Tags | `latest`, `fa0b78942d01ea07d1edc8beeb5c15a113bf330d` |
+| Digest | `sha256:e5fb7c67858d11c950c35e3e6c0548032dedf66b4df3810841aaf585d5542474` |
+| Commit | `fa0b78942d01ea07d1edc8beeb5c15a113bf330d` |
+| Execucao | [36503767307](https://github.com/LucasFiori02/banco-facil-api/actions/runs/36503767307) |
+| Data | 29/09/2026 00:36 UTC |
